@@ -31,3 +31,4 @@ grid on;
 xlabel('SNR (dB)');
 ylabel('Bit Error Rate');
 title('BER Performance of BPSK over AWGN Channel');
+% Simulation parameters can be adjusted for further analysis
