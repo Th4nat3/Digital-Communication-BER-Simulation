@@ -1,0 +1,11 @@
+# MATLAB autosave files
+*.asv
+
+# MATLAB backup files
+*.m~
+
+# MATLAB data files
+*.mat
+
+# MATLAB compiled files
+*.mex*
