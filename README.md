@@ -51,4 +51,8 @@ This section presents the BER performance results obtained from the simulation.
 
 - BPSK demonstrates lower BER under low SNR conditions.
 - QPSK achieves higher spectral efficiency with increased noise sensitivity.
+## About the Author
+Thanate Thongcharoen  
+Electrical Engineering student at Thammasat University
+
 
