@@ -46,3 +46,9 @@ sensitivity to noise.
 3. Run:
    ```matlab
    ber_comparison
+## Results
+This section presents the BER performance results obtained from the simulation.
+
+- BPSK demonstrates lower BER under low SNR conditions.
+- QPSK achieves higher spectral efficiency with increased noise sensitivity.
+
